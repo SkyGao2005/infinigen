@@ -1,0 +1,18 @@
+{
+  "_comment": "5m x 4m bedroom centred on world origin.",
+  "rooms": {
+    "bedroom_0/0": {
+      "shape": "shapely.box(-2.5,-2,2.5,2)"
+    }
+  },
+  "doors": {
+    "door": {
+      "shape": "shapely.LineString([(-0.6,-2),(0.6,-2)])"
+    }
+  },
+  "windows": {
+    "window_side": {
+      "shape": "shapely.LineString([(2.5,-0.7),(2.5,0.7)])"
+    }
+  }
+}

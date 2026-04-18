@@ -1,0 +1,21 @@
+{
+  "_comment": "6m x 6m square living room centred on world origin. Paired with generate_indoor_center_table to place a dining table at (0,0,floor).",
+  "rooms": {
+    "living-room_0/0": {
+      "shape": "shapely.box(-3,-3,3,3)"
+    }
+  },
+  "doors": {
+    "door": {
+      "shape": "shapely.LineString([(-0.6,-3),(0.6,-3)])"
+    }
+  },
+  "windows": {
+    "window_side": {
+      "shape": "shapely.LineString([(3,-0.8),(3,0.8)])"
+    },
+    "window_rear": {
+      "shape": "shapely.LineString([(-0.8,3),(0.8,3)])"
+    }
+  }
+}
