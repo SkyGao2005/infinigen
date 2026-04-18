@@ -1,5 +1,4 @@
 {
-  "_comment": "5m x 4m kitchen centred on world origin.",
   "rooms": {
     "kitchen_0/0": {
       "shape": "shapely.box(-2.5,-2,2.5,2)"

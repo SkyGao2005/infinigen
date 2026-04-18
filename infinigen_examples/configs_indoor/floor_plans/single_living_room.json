@@ -1,5 +1,4 @@
 {
-  "_comment": "6m x 6m square living room centred on world origin. Paired with generate_indoor_center_table to place a dining table at (0,0,floor).",
   "rooms": {
     "living-room_0/0": {
       "shape": "shapely.box(-3,-3,3,3)"

@@ -1,5 +1,4 @@
 {
-  "_comment": "6m x 6m square dining room centred on world origin.",
   "rooms": {
     "dining-room_0/0": {
       "shape": "shapely.box(-3,-3,3,3)"

@@ -1,5 +1,4 @@
 {
-  "_comment": "5m x 4m bedroom centred on world origin.",
   "rooms": {
     "bedroom_0/0": {
       "shape": "shapely.box(-2.5,-2,2.5,2)"
